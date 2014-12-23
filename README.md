@@ -3,6 +3,8 @@ blockchain
 
 Go Client for the Blockchain Data API https://blockchain.info/api/blockchain_api
 
+Documentation: https://godoc.org/github.com/alfg/blockchain
+
 ## Installation
 
 ```
