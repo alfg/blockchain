@@ -1,6 +1,8 @@
 blockchain
 ==========
 
+[![Build Status](https://travis-ci.org/alfg/blockchain.svg?branch=master)](https://travis-ci.org/alfg/blockchain)
+
 Go Client for the Blockchain Data API https://blockchain.info/api/blockchain_api
 
 Documentation: https://godoc.org/github.com/alfg/blockchain
