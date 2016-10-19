@@ -25,7 +25,7 @@ import (
 
 func main() {
 
-	c, e := New()
+	c, e := blockchain.New()
 	resp, e := c.GetAddress("162FjqU7RYdojnejCDe6zrPDUpaLcv9Hhq")
 	if e != nil {
 		fmt.Print(e)
