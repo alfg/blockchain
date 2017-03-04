@@ -17,7 +17,7 @@ type Block struct {
 	BlockIndex   int    `json:"block_index"`
 	MainChain    bool   `json:"main_chain"`
 	Height       int    `json:"height"`
-	ReceivedTime int    `json:"recieved_time"`
+	ReceivedTime int    `json:"received_time"`
 	RelayedBy    string `json:"relayed_by"`
 	Tx           []*Tx  `json:"tx"`
 	TxIndexes    []int  `json:"txIndexes"`
